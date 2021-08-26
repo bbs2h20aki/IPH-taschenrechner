@@ -58,6 +58,9 @@ class ViewController: UIViewController {
     }
     @IBOutlet weak var label: UILabel!
     
+    @IBAction func komma(_ sender: UIButton) {
+        label.text=label.text!+"."
+    }
     @IBAction func b0(_ sender: UIButton) {
         label.text = label.text!+"0"
     }

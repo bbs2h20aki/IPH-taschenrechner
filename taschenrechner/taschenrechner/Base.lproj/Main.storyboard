@@ -169,6 +169,15 @@
                                     <action selector="gleich:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7xA-S1-hyD"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="En6-cX-ysr">
+                                <rect key="frame" x="265" y="757" width="30" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="."/>
+                                <connections>
+                                    <action selector="komma:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cw7-JG-NEr"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
