@@ -24,7 +24,7 @@
                                 </constraints>
                                 <state key="normal" title="7"/>
                                 <connections>
-                                    <action selector="b7:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BjI-67-Ryu"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ehc-6O-rsi"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n6X-Qv-Gae">
@@ -35,7 +35,7 @@
                                 </constraints>
                                 <state key="normal" title="8"/>
                                 <connections>
-                                    <action selector="b8:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mI4-Mo-ZXs"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="frV-dD-09Q"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DT6-2R-1qE">
@@ -46,7 +46,7 @@
                                 </constraints>
                                 <state key="normal" title="4"/>
                                 <connections>
-                                    <action selector="b4:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ixK-IP-0Y8"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hYX-Dp-7hN"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fI9-gD-PLc">
@@ -57,7 +57,7 @@
                                 </constraints>
                                 <state key="normal" title="5"/>
                                 <connections>
-                                    <action selector="b5:" destination="BYZ-38-t0r" eventType="touchUpInside" id="P64-UG-xtg"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="B6C-Lp-DjU"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f8E-2V-EnT">
@@ -68,7 +68,7 @@
                                 </constraints>
                                 <state key="normal" title="6"/>
                                 <connections>
-                                    <action selector="b6:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tSH-xB-dIH"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Z7c-4v-MAy"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yT7-lv-g84">
@@ -79,7 +79,7 @@
                                 </constraints>
                                 <state key="normal" title="1"/>
                                 <connections>
-                                    <action selector="b1:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y2O-j7-EJu"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="H1h-cA-9RI"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L4D-L4-ylq">
@@ -90,7 +90,7 @@
                                 </constraints>
                                 <state key="normal" title="2"/>
                                 <connections>
-                                    <action selector="b2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="H0J-5Y-aJf"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6ym-fO-Gls"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nhS-3P-ENd">
@@ -101,7 +101,7 @@
                                 </constraints>
                                 <state key="normal" title="3"/>
                                 <connections>
-                                    <action selector="b3:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1R2-l6-2a9"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NYx-dy-9ps"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zvJ-6h-2R9">
@@ -112,7 +112,7 @@
                                 </constraints>
                                 <state key="normal" title="9"/>
                                 <connections>
-                                    <action selector="b9:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bED-jN-sqr"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="50a-8U-RCN"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Cx-DY-L1o">
@@ -189,7 +189,7 @@
                                 </constraints>
                                 <state key="normal" title="0"/>
                                 <connections>
-                                    <action selector="b0:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6hg-Mx-q9D"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="D24-aA-RyG"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y0M-VK-GMB">
@@ -229,7 +229,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="."/>
                                 <connections>
-                                    <action selector="komma:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cw7-JG-NEr"/>
+                                    <action selector="eingabe:" destination="BYZ-38-t0r" eventType="touchUpInside" id="que-YI-a66"/>
                                 </connections>
                             </button>
                         </subviews>
